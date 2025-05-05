@@ -1,0 +1,1 @@
+Epochs= 100, som_dim=[16,16], latent_dim= 50, batch_size= 100, learning_rate= 0.001000, theta= 1.000000, eta= 1.000000, beta= 10.000000, alpha=10.000000, gamma=50.000000, epochs_pretrain=50, dropout= 0.500000, annealtime= 200, , kappa= 1.000000, pred_ze: 1.205116, pred_rec: 0.656597, pred_xhat: 0.898643.Name: 'hyperopt_LSTM_50_16-16_2025-05-04_c5819' 
