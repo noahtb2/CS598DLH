@@ -1,0 +1,1 @@
+This is the preprocessed data for the model. To get the raw data, please visit https://physionet.org/content/eicu-crd/2.0/ or for a subset of data visit https://physionet.org/content/eicu-crd-demo/2.0/
