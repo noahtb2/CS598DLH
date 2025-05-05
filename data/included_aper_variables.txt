@@ -1,0 +1,11 @@
+noninvasivediastolic
+noninvasivemean
+noninvasivesystolic
+paop
+cardiacoutput
+cardiacinput
+svr
+svri
+pvr
+pvri
+paop
